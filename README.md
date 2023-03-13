@@ -1,6 +1,6 @@
 ### Olá 👋
 
-## Atualmente curso Tecnologo em Análise e Desenvolimento de sistemas. Já tenho experiências como analista de suporte aos usuários para uso de sistema e estou me qualificando cada vez mais na área de Dev Front-End com conhecimentos de HTML, CSS, Javscript, TypeScript e Django, já trabalhei com projetos que envolvem as tecnologias Pytho, Java e Banco SQL
+## Atualmente curso Tecnologo em Análise e Desenvolimento de sistemas. Já tenho experiências como analista de suporte aos usuários para uso de sistema e estou me qualificando cada vez mais na área de Dev Front-End com conhecimentos de HTML, CSS, Javscript, TypeScript e Django, já trabalhei com projetos que envolvem as tecnologias Python, Java e Banco SQL
 2 anos de experiência como Analista de Suporte;
 1 ano de experiência com suporte técnico presencial e remoto. 
 3 anos de experiência com projetos de diversas tecnologias feitas em aula. 
