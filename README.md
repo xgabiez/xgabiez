@@ -2,8 +2,11 @@
 
 ## 🎓 Formada em Tecnólogo em Análise e Desenvolvimento de Sistemas e também em Técnico em Informática.
 💻 Atualmente atuo como Gestora de TI em uma escola, sendo responsável pela infraestrutura de rede, plataformas educacionais e desenvolvimento de projetos de tecnologia para otimizar a gestão escolar.
+
 📊 Tenho grande interesse em Finanças, Análise de Dados e Governança de TI, além de estar me aprofundando em Python, Machine Learning e Power BI para aplicar em projetos de dados e inteligência artificial.
+
 👩‍💻 Já trabalhei com projetos que envolvem Python, Java, Banco SQL e desenvolvimento Front-End (HTML, CSS, JavaScript, TypeScript e Django).
+
 🚀 Desenvolvo também projetos pessoais de automação de processos, análise de dados e inteligência artificial com Python, que você pode acompanhar aqui no meu GitHub.
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
