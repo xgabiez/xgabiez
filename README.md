@@ -1,9 +1,10 @@
 ### Olá 👋
 
-## Atualmente curso Tecnologo em Análise e Desenvolimento de sistemas. Já tenho experiências como analista de suporte aos usuários para uso de sistema e estou me qualificando cada vez mais na área de Dev Front-End com conhecimentos de HTML, CSS, Javscript, TypeScript e Django, já trabalhei com projetos que envolvem as tecnologias Python, Java e Banco SQL
-2 anos de experiência como Analista de Suporte;
-1 ano de experiência com suporte técnico presencial e remoto. 
-3 anos de experiência com projetos de diversas tecnologias feitas em aula. 
+## 🎓 Formada em Tecnólogo em Análise e Desenvolvimento de Sistemas e também em Técnico em Informática.
+💻 Atualmente atuo como Gestora de TI em uma escola, sendo responsável pela infraestrutura de rede, plataformas educacionais e desenvolvimento de projetos de tecnologia para otimizar a gestão escolar.
+📊 Tenho grande interesse em Finanças, Análise de Dados e Governança de TI, além de estar me aprofundando em Python, Machine Learning e Power BI para aplicar em projetos de dados e inteligência artificial.
+👩‍💻 Já trabalhei com projetos que envolvem Python, Java, Banco SQL e desenvolvimento Front-End (HTML, CSS, JavaScript, TypeScript e Django).
+🚀 Desenvolvo também projetos pessoais de automação de processos, análise de dados e inteligência artificial com Python, que você pode acompanhar aqui no meu GitHub.
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
