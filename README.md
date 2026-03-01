@@ -1,13 +1,14 @@
-### Olá 👋
+## 👋 Olá!
 
-## 🎓 Formada em Tecnólogo em Análise e Desenvolvimento de Sistemas e também em Técnico em Informática.
-💻 Atualmente atuo como Gestora de TI em uma escola, sendo responsável pela infraestrutura de rede, plataformas educacionais e desenvolvimento de projetos de tecnologia para otimizar a gestão escolar.
+🎓 Formada em Tecnólogo em Análise e Desenvolvimento de Sistemas e Técnica em Informática.
 
-📊 Tenho grande interesse em Finanças, Análise de Dados e Governança de TI, além de estar me aprofundando em Python, Machine Learning e Power BI para aplicar em projetos de dados e inteligência artificial.
+💼 Atuei como Gestora de TI em ambiente educacional, sendo responsável pela infraestrutura de rede, administração de sistemas, controle de acessos e organização dos processos tecnológicos da instituição.
 
-👩‍💻 Já trabalhei com projetos que envolvem Python, Java, Banco SQL e desenvolvimento Front-End (HTML, CSS, JavaScript, TypeScript e Django).
+📊 Tenho interesse em Governança de TI, análise de dados e melhoria de processos, buscando aplicar conceitos de estruturação, indicadores e inteligência de dados na tomada de decisão.
 
-🚀 Desenvolvo também projetos pessoais de automação de processos, análise de dados e inteligência artificial com Python, que você pode acompanhar aqui no meu GitHub.
+🐍 Desenvolvo projetos pessoais utilizando Python e SQL voltados para automação, organização de dados e apoio à gestão.
+
+🚀 Atualmente estou em busca de novas oportunidades na área de Tecnologia da Informação, com foco em gestão e organização de ambientes tecnológicos.
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
